@@ -1,1 +1,3 @@
 # Hotel-Kashyyk
+
+In this project, I worked in a group and was tasked with creating a hotel management system with capabilities to check in guests and allow them to book rooms, allow the guests to book dinner tables for different times if they had a specific room type and allowed them to check out and calculate the bill for their stay. I learnt from this project the neccessity of communication, planning and design in larger projects as it was only able to be successful if all group members understood their role in creating the system which ensured there would be no conflicts or confusion during the development of seperate parts of the system.
