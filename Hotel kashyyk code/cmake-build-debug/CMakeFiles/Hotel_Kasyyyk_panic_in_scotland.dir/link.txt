@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Hotel_Kasyyyk_panic_in_scotland.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\Hotel_Kasyyyk_panic_in_scotland.dir/objects.a @CMakeFiles\Hotel_Kasyyyk_panic_in_scotland.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Hotel_Kasyyyk_panic_in_scotland.dir/objects.a -Wl,--no-whole-archive -o Hotel_Kasyyyk_panic_in_scotland.exe -Wl,--out-implib,libHotel_Kasyyyk_panic_in_scotland.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hotel_Kasyyyk_panic_in_scotland.dir\linkLibs.rsp
